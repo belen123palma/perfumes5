@@ -1,0 +1,503 @@
+
+@charset "utf-8";
+/* CSS Document */
+#divprin1{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge; 
+}
+#divimagen1{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/RalphLauren-Romance-M500.jpg);background-size:250px; background-repeat:no-repeat; background-position:center; text-align:center;}
+#divtext1{width:350px; height:250px; margin:15px; background-color:#09C; border-top:ridge; float:left; text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;
+border:groove 4px #a825a8;
+-moz-border-radius: 14px;
+-webkit-border-radius: 14px;
+border-radius: 14px;}
+
+#divprecio{width:350px; height:250px;  margin:15px; background-color:#96F; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;
+border:groove 4px #a825a8;
+-moz-border-radius: 14px;
+-webkit-border-radius: 14px;
+border-radius: 14px;}
+
+
+
+#divprin2{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;}
+#divimagen2{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/Calvin%20Klein%20Eternity%20for%20Men%20100ml.jpg);background-size:250px; background-repeat:no-repeat; background-position:center; text-align:center;}
+
+#divtext2{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;
+border:groove 4px #a825a8;
+-moz-border-radius: 14px;
+-webkit-border-radius: 14px;
+border-radius: 14px;}
+
+#divprecio2{width:400px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:groove 4px #a825a8;
+-moz-border-radius: 14px;
+-webkit-border-radius: 14px;
+border-radius: 14px;}
+
+
+
+#divprin3{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;}
+#divimagen3{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/rl-poloexplorer-m500.jpg) ; background-size:250px; background-repeat:no-repeat; background-position:center; text-align:center;}
+
+#divtext3{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:groove 4px #a825a8;
+-moz-border-radius: 14px;
+-webkit-border-radius: 14px;
+border-radius: 14px;}
+
+#divprecio3{width:400px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:groove 4px #a825a8;
+-moz-border-radius: 14px;
+-webkit-border-radius: 14px;
+border-radius: 14px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#divAnB1{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;  
+background:-webkit-gradient(radial, 165 0, 0, 220 -257, 465, from(#B624CB), to(#192AFF))}
+#divimAnB1{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/antonio%20banderas1.jpg); background-repeat:no-repeat; background-position:center; text-align:center;background-size:250px;}
+#divtextAnT1{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; text-align:center;}
+#divpreAnt1{width:350px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+
+
+
+
+
+#divAnB2{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;
+background:-webkit-gradient(radial, -310 -93, 286, -239 -257, 465, from(#EED9A6), to(#5EAC70))}
+#divimAnB2{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/antonio%20banderas2.jpg); background-repeat:no-repeat; background-position:center; text-align:center;background-size:250px;}
+#divtextAnT2{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+
+#divpreAnt2{width:350px; height:250px;  margin:15px; background-color:#06F; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+
+
+
+
+
+#divAnB3{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;}
+#divimAnB3{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/antonio%20banderas3.jpg); background-repeat:no-repeat; background-position:center; text-align:center;background-size:250px;}
+#divtextAnT3{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+#divpreAnt3{width:350px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+
+
+
+#divCk1{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;}
+#divimCk1{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/Calvin%20Klein%20Eternity%20for%20Men%20100ml.jpg); background-repeat:no-repeat; background-position:center; text-align:center; background-size:250px;}
+
+#divtextCk1{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+#divpreCk1{width:350px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+
+
+
+#divCk2{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;}
+#divimCk2{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/calvin_klein_euphoria_men1-600x600.jpg); background-repeat:no-repeat; background-position:center; text-align:center; background-size:250px;}
+
+#divtextCk2{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+#divpreCk2{width:350px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+
+#divCk3{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;}
+#divimCk3{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/perfume-obsession-night-for-men-calvin-klein-125ml_MLB-F-3252071531_102012.jpg); background-repeat:no-repeat; background-position:center; text-align:center; background-size:250px;}
+
+#divtextCk3{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+#divpreCk3{width:350px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+
+
+
+
+
+
+#divCH1{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;}
+#divimCH1{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/carolina_212_perfume_for_women_by_carolina_herrera.jpg); background-repeat:no-repeat; background-position:center; text-align:center; background-size:300px;}
+
+#divtextCH1{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+#divpreCH1{width:350px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+#divCH2{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;}
+#divimCH2{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/carolina-herrera-212-sexy-60ml-750x750.jpg); background-repeat:no-repeat; background-position:center; text-align:center; background-size:250px;}
+
+#divtextCH2{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+#divpreCH2{width:350px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+
+
+
+
+
+
+#divCH3{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;}
+#divimCH3{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/Ch%20Carolina%20Herrera%20Perfume%20by%20Carolina%20Herrera%20for%20Women.jpg); background-repeat:no-repeat; background-position:center; text-align:center; background-size:250px;}
+
+#divtextCH3{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+#divpreCH3{width:350px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+
+
+
+
+
+
+#divPH1{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;}
+#divimPH1{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/ParisHilton-Heiress-W500.jpg); background-repeat:no-repeat; background-position:center; text-align:center; background-size:250px;}
+
+#divtextPH1{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+#divprePH1{width:350px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+#divPH2{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;}
+#divimPH2{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/Paris-Hilton-Fragrances-Heiress-Spray.jpg); background-repeat:no-repeat; background-position:center; text-align:center; background-size:250px;}
+
+#divtextPH2{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+#divprePH2{width:350px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+
+
+#divPH3{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;}
+#divimPH3{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/PAR15.jpg); background-repeat:no-repeat; background-position:center; text-align:center; background-size:250px;}
+
+#divtextPH3{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+#divprePH3{width:350px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+
+
+
+
+#divET1{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;}
+#divimET1{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/0071934658134_500X500.jpg); background-repeat:no-repeat; background-position:center; text-align:center; background-size:250px;}
+
+#divtextET1{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+#divpreET1{width:350px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+
+
+
+#divET2{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;}
+#divimET2{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/elizabeth-taylor-perfume.jpg); background-repeat:no-repeat; background-position:center; text-align:center; background-size:250px;}
+
+#divtextET2{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+#divpreET2{width:350px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+
+
+
+
+
+
+#divET3{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;}
+#divimET3{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/PA71.jpg); background-repeat:no-repeat; background-position:center; text-align:center; background-size:250px;}
+
+#divtextET3{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+#divpreET3{width:350px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+
+
+
+
+
+
+
+
+
+
+
+#divniña1{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;}
+#divimniña1{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/ni%C3%B1a1.jpg); background-repeat:no-repeat; background-position:center; text-align:center; background-size:250px;}
+
+#divtextniña1{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+#divpreniña1{width:350px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+
+#divniña2{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;}
+#divimniña2{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/ni%C3%B1a2.jpg); background-repeat:no-repeat; background-position:center; text-align:center; background-size:250px;}
+
+#divtextniña2{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+#divpreniña2{width:350px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+
+
+
+
+
+
+#divniña3{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;}
+#divimniña3{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/ni%C3%B1a3.jpg); background-repeat:no-repeat; background-position:center; text-align:center; background-size:250px;}
+
+#divtextniña3{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+#divpreniña3{width:350px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+
+
+
+
+
+
+
+#divniño1{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;}
+#divimniño1{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/ni%C3%B1o1.jpg); background-repeat:no-repeat; background-position:center; text-align:center; background-size:250px;}
+
+#divtextniño1{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+#divpreniño1{width:350px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+
+#divniña2{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;}
+#divimniño2{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/1215W.jpg); background-repeat:no-repeat; background-position:center; text-align:center; background-size:250px;}
+
+#divtextniño2{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+#divpreniño2{width:350px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+
+
+
+
+
+
+#divniño3{width:1400px; height:300px; margin-left:5px; background-color:#3F6; border-top:ridge; float:left; border-top:ridge;}
+#divimniño3{width:400px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px; background-image:url(../IMAGENESPERFUMES/ni%C3%B1o3.jpg); background-repeat:no-repeat; background-position:center; text-align:center; background-size:250px;}
+
+#divtextniño3{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}{width:350px; height:250px; margin:15px; background-color:#909; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
+#divpreniño3{width:350px; height:250px;  margin:15px; background-color:#F09; border-top:ridge; float:left;text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:24px; color:#933;border:solid 4px #25a892;
+-moz-border-radius: 58px;
+-webkit-border-radius: 58px;
+border-radius: 58px;}
